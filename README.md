@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy José Daniel Silva 👋
 
-<!--
-**josedanielsilva/josedanielsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Stack Junior** en Lima, Perú.
+Desarrollo módulos de un sistema hospitalario en el **Hospital Nacional Dos de Mayo** (Admisión, Hospitalización, Quimioterapia, Hemodiálisis, Imagenología y más).
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías
+**Frontend:** Vue.js · JavaScript · HTML · SCSS  
+**Backend:** PHP · Laravel · Java · Spring Boot · APIs REST  
+**Bases de datos:** SQL Server (T-SQL) · MySQL  
+**Herramientas:** Git · Docker · Hostinger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formación
+Profesional Técnico en Desarrollo de Sistemas de Información — IESP San Ignacio de Monterrico (promedio 17/20)
+
+### 🌱 Actualmente
+- Aprendiendo microservicios con Spring Boot y Docker
+- Mejorando mi inglés técnico
+- Buscando oportunidades como desarrollador junior
+
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/josedanielsilva) · danielvale844@gmail.com
